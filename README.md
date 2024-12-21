@@ -1,0 +1,1 @@
+This is GPA and CGPA Calculator in C#. The calulator asks the user to input subject names, marks, number of semesters and credit hours. After that it calculates the GPA and CGPA for the input. It also displays the list of subjects read by the students in semesters.
